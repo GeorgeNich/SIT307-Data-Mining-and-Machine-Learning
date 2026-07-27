@@ -2,16 +2,16 @@
 
 A curated portfolio of data-mining and machine-learning work completed for Deakin University's SIT307 unit.
 
-## Start here
-
-### Pima Diabetes Analysis and Classification
+## Featured Project: Pima Diabetes Analysis and Classification
 
 The flagship project follows one dataset through two connected stages:
 
 1. **Exploratory analysis** completed by George Nicholson, Anthony Trinh, Jamil Rizkallah and Jet Hall.
 2. **Machine-learning comparison** completed by George Nicholson and Anthony Trinh.
 
-[Explore the Pima Diabetes project](pima-diabetes-project/)
+The project covers data exploration, cleaning, feature analysis, dimensionality reduction, classification models, validation and model comparison.
+
+**[View the complete Pima Diabetes project →](pima-diabetes-project/)**
 
 Direct evidence:
 
@@ -20,11 +20,11 @@ Direct evidence:
 - [Machine-learning notebook](pima-diabetes-project/machine-learning/pima-diabetes-model-comparison.ipynb)
 - [Machine-learning report](pima-diabetes-project/machine-learning/assignment-3-report.pdf)
 
-### Individual problem-solving portfolio
+## Individual problem-solving portfolio
 
 The individual work shows the progression from Python problem solving and data handling through visualisation, cleaning, PCA, decision trees, regression, neural networks and manual calculations.
 
-[Explore the complete individual portfolio](individual-work/)
+**[Explore the complete individual portfolio →](individual-work/)**
 
 Highlighted evidence:
 
